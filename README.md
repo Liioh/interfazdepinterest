@@ -19,7 +19,7 @@ Se enfoca en replicar la apariencia visual de Pinterest, ofreciendo una experien
 + **Google Fonts:** Para fuentes personalizadas.
 
 ### Vista Previa del Proyecto
-----Pendiente-----
+![Demo](imagenes/pinteres_foto.jpg)
 
 ### Contacto
 Si te gustaría invitarme a colaborar en un proyecto, escríbeme por [Instagram](https://www.instagram.com/liz.oh/).
