@@ -22,4 +22,4 @@ Se enfoca en replicar la apariencia visual de Pinterest, ofreciendo una experien
 ![Demo](imagenes/pinteres.png)
 
 ### Contacto
-Si te gustaría invitarme a colaborar en un proyecto, escríbeme por [Instagram](https://www.instagram.com/liz.oh/).
+Si te gustaría invitarme a colaborar en un proyecto, escríbeme por [Linkedln](https://www.linkedin.com/in/liioh/).
